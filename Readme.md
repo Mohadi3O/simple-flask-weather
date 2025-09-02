@@ -15,6 +15,9 @@
 ---
 #### -B **by serve() function :**
 >```py .\server.py -t 1 ```
+>
+><img width="1115" height="781" alt="image" src="https://github.com/user-attachments/assets/9dd6987e-ba1b-48d1-8041-dcbdd3d97ee6" />
+
 
 
 
